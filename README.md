@@ -29,3 +29,15 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+Projeto de estudo praticar HTML/CSS!!
